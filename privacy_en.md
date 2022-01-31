@@ -1,1 +1,1 @@
-# privacy_en.html
+# privacy_en
