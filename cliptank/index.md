@@ -1,8 +1,8 @@
 # About ClipTank
 
-CliaTank is a free app that allows you to easily save text from the clipboard. You can edit the saved text and return it to the clipboard with simple operations.
+ClipTank is a free app that allows you to easily save text from the clipboard. You can edit the saved text and return it to the clipboard with simple operations.
 
-## What you can do with CliaTank
+## What you can do with ClipTank
 
 ### Easy-to-use clipboard saving
 
@@ -18,7 +18,7 @@ You can check the text currently stored in the clipboard with a simple operation
 
 ### Register frequently used items in advance with the memo function
 
-In the memo function, you can register frequently used words in advance in CliaTank, so you can copy the registered memo to the clipboard with simple operations.
+In the memo function, you can register frequently used words in advance in ClipTank, so you can copy the registered memo to the clipboard with simple operations.
 
 ### Support for dark themes
 
@@ -26,13 +26,13 @@ The app will automatically switch to the dark theme according to your system set
 
 ### Save your valuable data with backup and restore functions
 
-The data saved in CliaTank can be backed up as a file, so you can move your data if you change phones.
+The data saved in ClipTank can be backed up as a file, so you can move your data if you change phones.
 
 # ClipTankについて
 
-CliaTankはクリップボードのテキストを手軽に保存しておける無料アプリです。保存したテキストを編集したり、簡単操作でクリップボードに戻すことができます。
+ClipTankはクリップボードのテキストを手軽に保存しておける無料アプリです。保存したテキストを編集したり、簡単操作でクリップボードに戻すことができます。
 
-## CliaTankでできること
+## ClipTankでできること
 
 ### 簡単操作によるクリップボードの保存
 
@@ -48,7 +48,7 @@ ClipTankでは次の方法で現在のクリップボードのテキストをア
 
 ### メモ機能でよく使う項目をあらかじめ登録
 
-メモ機能ではよく使う単語などをあらかじめCliaTankに登録しておくことができるので、登録したメモを簡単操作でクリップボードにコピーできます。
+メモ機能ではよく使う単語などをあらかじめClipTankに登録しておくことができるので、登録したメモを簡単操作でクリップボードにコピーできます。
 
 ### ダークテーマに対応
 
@@ -56,4 +56,4 @@ ClipTankでは次の方法で現在のクリップボードのテキストをア
 
 ### バックアップと復元機能で大事なデータを保存
 
-CliaTankに保存したデータはファイルとしてバックアップすることができるので、機種を変更した場合にもデータを移動できます。
+ClipTankに保存したデータはファイルとしてバックアップすることができるので、機種を変更した場合にもデータを移動できます。
